@@ -3,7 +3,7 @@
 	import favicon from '$lib/assets/favicon.svg';
   
 	// import Tooltip provider (use your path)
-	import * as Tooltip from '$lib/components/ui/tooltip'; // or: import * as Tooltip from 'bits-ui';
+	import * as Tooltip from '$lib/components/ui/tooltip';
   
 	let { children } = $props();
   </script>
